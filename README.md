@@ -1,27 +1,16 @@
 # Webmarks
 
-A free Chrome extension that lets you highlight and save text from any webpage. Like a highlighter pen, but for the internet.
+A  Chrome extension that lets you highlight and save text from any webpage. Like a highlighter pen, but for the internet.
 
 ---
 
 ## Description
 
-Webmarks is a lightweight browser extension for anyone who reads a lot online — students, researchers, writers, or just curious people. Select any text on a webpage, pick a color, and it's saved. No accounts, no cloud, no tracking. Everything stays on your machine.
+Webmarks is a lightweight browser extension for anyone who reads a lot online- students, researchers, writers or just curious people. We can select any text on a webpage, do right click on that and click on save to webmarks, and it's saved. No accounts, no cloud, no tracking. Everything stays on your machine.
 
 You can search through all your saved highlights, organize them by color, and export everything as a clean Markdown file whenever you need it.
 
 ---
-
-## Screenshots
-
-Since Webmarks is a Chrome extension (not a regular website), here's what each part looks like:
-
-### Floating Color Picker
-When you select text on any webpage, a small dark toolbar with 5 colored dots appears right above your selection. Click a dot to save.
-
-```
-  🟡 🟢 🔴 🔵 🟣    ← appears above selected text
-```
 
 ### Popup Dashboard
 Click the Webmarks icon in your toolbar to see all your saved highlights. They're grouped by website and each one shows the text, source link, and when you saved it.
@@ -140,3 +129,5 @@ The extension uses 5 highlight colors, each meant for a different purpose (thoug
 ## License
 
 Free to use. Do whatever you want with it.
+
+Made with love for hackclub

@@ -85,13 +85,11 @@ If something doesn't work, open `chrome://extensions`, find Webmarks, and click 
 
 | Technology | Usage |
 |-----------|-------|
-| **Manifest V3** | Latest Chrome extension standard |
-| **Vanilla JavaScript** | No frameworks — pure JS for content script, background worker, and popup |
-| **Chrome Storage API** | `chrome.storage.local` for saving highlights — data stays on the user's machine |
-| **Chrome Context Menus API** | Adds a right-click option to save selected text |
-| **HTML + CSS** | Popup UI built with plain HTML and custom CSS (no libraries) |
-| **React + Tailwind CSS** | Landing page / marketing site (separate from the extension itself) |
-| **Vite** | Build tool for the landing page |
+| **Manifest V3** | 
+| ** JavaScript** |
+| **Chrome Storage API** |
+| **Chrome Context Menus API** | 
+| **HTML + CSS** | 
 
 ---
 
